@@ -24,7 +24,7 @@
 
 ## 🔍 Extracto
 
-Graduado de la Universidad Tecnológica de Chile INACAP,con habilidades destacadas en tecnologías como SQL, JavaScript, React, .NET, Python y más. Soy un firme creyente en la colaboración y la versatilidad, siempre buscando oportunidades para aprender y crecer.
+Soy un firme creyente en la colaboración y la versatilidad, siempre buscando oportunidades para aprender y crecer.
 
 
 # 📋 Experiencia
@@ -69,18 +69,10 @@ Graduado de la Universidad Tecnológica de Chile INACAP,con habilidades destacad
 - **Técnico en Mantención y Reparación de Computadores** - Intech Instituto Tecnológico Chillán, 2004 - 2006
 
 
-
-
 ## 🏆 Mis Insignias
 
-![CertiProf-Badge-LLL](https://github.com/Novaversocl/Novaversocl/assets/95386670/0cc87ef2-6cfa-4471-baa9-d101c80148d8)
 
 ![image](https://github.com/Novaversocl/Novaversocl/assets/95386670/a08501e4-4d42-4e05-b981-e2dd5d07b51d)
-
-https://images.credly.com/size/110x110/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png
-
-
-Puedes ver todas mis insignias en mi perfil de [Credly](https://www.credly.com/users/juan-luis-estrada-nova/badges).
 
 
 
