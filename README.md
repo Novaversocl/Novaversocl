@@ -27,48 +27,6 @@
 Soy un firme creyente en la colaboración y la versatilidad, siempre buscando oportunidades para aprender y crecer.
 
 
-# 📋 Experiencia
-
-## Novaverso Full Stack Web Development
-
-- 🧑‍💻 **Desarrollador Freelance Front End**  
-  📅 dic 2023 - Presente  
-  🌐 Desarrollo de soluciones web innovadoras para microempresas, utilizando tecnologías como JavaScript, React, HTML y SQL.
-
-## Ionix Mobile Payments
-
-- 🖥️ **Monitoreo Soporte TI Plataforma - Ionix**  
-  📅 ago 2022 - nov 2023  
-  📊 Monitoreo activo de servicios de clientes y soporte técnico utilizando Jira.
-
-## Novasoft Servicios Informáticos
-
-- 🧑‍💻 **Desarrollador Freelance .Net**  
-  📅 ene 2022 - oct 2023  
-  🛒 Desarrollo independiente de software de punto de venta y gestión de inventario para Mipymes.
-
-## Adalid Chile
-
-- 🎓 **Bootcamp de Desarrollador Full Stack JavaScript**  
-  📅 mar 2023 - ago 2023  
-  💻 Adquisición de habilidades en desarrollo Full Stack con JavaScript.
-
-## DevLEF SPA
-
-- 🧑‍💻 **Práctica Profesional Desarrollador Front-end**  
-  📅 ene 2022 - mar 2022  
-  🏥 Colaboración en el desarrollo de plataforma de Salud Mental utilizando JavaScript y PHP.
-
-
-## 🎓 Educación
-
-- **Diplomado Diseño y Programación Web** - Instituto Profesional AIEP, nov 2023 - feb 2024
-- **Diplomado Diseño y Gestión Ágil de Proyectos** - Universidad de Playa Ancha, nov 2023 - feb 2024
-- **Ingeniero en Informática** - Universidad Tecnológica de Chile INACAP, ene 2018 - ene 2022
-- **Técnico de Nivel Superior Analista Programador** - INACAP, 2009 - 2011
-- **Técnico en Mantención y Reparación de Computadores** - Intech Instituto Tecnológico Chillán, 2004 - 2006
-
-
 ## 🏆 Mis Insignias
 
 
