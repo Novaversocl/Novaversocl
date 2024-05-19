@@ -19,6 +19,8 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=power-bi&logoColor=black&style=flat-square)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?logo=scrumalliance&logoColor=white&style=flat-square)
+![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/e851d738-d1a0-49b9-bcd3-220f3184578e)
+
 
 
 
@@ -28,6 +30,7 @@ Soy un firme creyente en la colaboración y la versatilidad, siempre buscando op
 
 
 ## 🏆 Mis Insignias
+![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/6f06bead-8868-4b37-acc5-70dfad737b57)
 ![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/385924e5-4f6f-4580-af58-daf18d6c2262)
 ![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/ee86949f-be74-4399-80cb-2ff476cd87b1)
 ![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/90ff6204-59a0-4c46-affd-0ec475fbb860)
