@@ -19,9 +19,6 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=power-bi&logoColor=black&style=flat-square)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?logo=scrumalliance&logoColor=white&style=flat-square)
-![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/e851d738-d1a0-49b9-bcd3-220f3184578e)
-
-
 
 
 ## 🔍 Extracto
@@ -39,16 +36,12 @@ Soy un firme creyente en la colaboración y la versatilidad, siempre buscando op
 ![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/47c7a426-849b-43a6-b8f9-881ff994c5a7)
 ![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/4bd36f8a-b4d0-4c63-9e85-05c5ee628c3c)
 ![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/c90bc016-be87-4252-8bdf-2f2fe60a8e8a)
-
-
+![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/e851d738-d1a0-49b9-bcd3-220f3184578e)
 
 
 ## 📬 Contacto
 
 - **Email:** juanestrada.n@gmail.com
-
-
----
 
 ¡Gracias por visitar mi perfil de GitHub! 🚀
 
