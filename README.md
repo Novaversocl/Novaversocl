@@ -28,11 +28,14 @@ Soy un firme creyente en la colaboración y la versatilidad, siempre buscando op
 
 
 ## 🏆 Mis Insignias
-
-
-![image](https://github.com/Novaversocl/Novaversocl/assets/95386670/a08501e4-4d42-4e05-b981-e2dd5d07b51d)
-
-![CertiProf-Badge-LLL](https://github.com/Novaversocl/Novaversocl/assets/95386670/3f02da01-09e6-4aa3-8a28-a3020e93ae84)
+![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/385924e5-4f6f-4580-af58-daf18d6c2262)
+![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/ee86949f-be74-4399-80cb-2ff476cd87b1)
+![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/90ff6204-59a0-4c46-affd-0ec475fbb860)
+![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/8c33c862-293a-4316-a96f-c68cd93624c4)
+![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/8e77d51f-5aa7-4537-90d6-c5faa6d3aa2e)
+![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/47c7a426-849b-43a6-b8f9-881ff994c5a7)
+![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/4bd36f8a-b4d0-4c63-9e85-05c5ee628c3c)
+![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/c90bc016-be87-4252-8bdf-2f2fe60a8e8a)
 
 
 
