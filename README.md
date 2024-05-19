@@ -32,12 +32,15 @@ Soy un firme creyente en la colaboración y la versatilidad, siempre buscando op
 
 ![image](https://github.com/Novaversocl/Novaversocl/assets/95386670/a08501e4-4d42-4e05-b981-e2dd5d07b51d)
 
+![CertiProf-Badge-LLL](https://github.com/Novaversocl/Novaversocl/assets/95386670/3f02da01-09e6-4aa3-8a28-a3020e93ae84)
+
+
 
 
 ## 📬 Contacto
 
 - **Email:** juanestrada.n@gmail.com
-- **LinkedIn:** [Juan Luis Estrada Nova](https://www.linkedin.com/in/juan-luis-estrada-nova)
+
 
 ---
 
