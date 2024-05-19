@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-juanluisestrada-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-luis-estrada-nova/)](https://www.linkedin.com/in/juan-luis-estrada-nova/)
 
 
-¡Bienvenido a mi perfil de GitHub! Soy un ingeniero informático con base en Chile, apasionado por la innovación y la optimización de procesos. Con más de 10 años de experiencia laboral, he incursionado en diversos sectores, desde la industria agrícola hasta los medios de pagos financieros. Mi trayectoria está marcada por un profundo conocimiento en tecnologías de información y metodologías ágiles.
+¡Bienvenido a mi perfil de GitHub! Soy un ingeniero informático, apasionado por la innovación y la optimización de procesos. Con más de 10 años de experiencia laboral, he incursionado en diversos sectores, desde la industria agrícola,Desarrollo, hasta los medios de pagos financieros. Mi trayectoria está marcada por un profundo conocimiento en tecnologías de información y metodologías ágiles.
 
 ## 🚀 Habilidades
 
@@ -14,7 +14,7 @@
 
 ## 🔍 Extracto
 
-Graduado de la Universidad Tecnológica de Chile INACAP, mi enfoque se centra en el desarrollo Full Stack, con habilidades destacadas en tecnologías como SQL, JavaScript, React, .NET, Python y más. Soy un firme creyente en la colaboración y la versatilidad, siempre buscando oportunidades para aprender y crecer.
+Graduado de la Universidad Tecnológica de Chile INACAP,con habilidades destacadas en tecnologías como SQL, JavaScript, React, .NET, Python y más. Soy un firme creyente en la colaboración y la versatilidad, siempre buscando oportunidades para aprender y crecer.
 
 ## 📋 Experiencia
 
@@ -56,6 +56,6 @@ Graduado de la Universidad Tecnológica de Chile INACAP, mi enfoque se centra en
 ¡Conéctate conmigo! Estoy siempre abierto a nuevas oportunidades y colaboraciones.
 
 [![Linkedin](https://img.shields.io/badge/-juanluisestrada-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-luis-estrada-nova/)](https://www.linkedin.com/in/juan-luis-estrada-nova/)
-[![Twitter](https://img.shields.io/twitter/follow/JuanLuisENova?style=social)](https://twitter.com/JuanLuisENova)
+
 
 ¡Gracias por visitar mi perfil! 😊
