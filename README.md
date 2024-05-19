@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Novaversocl/Novaversocl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Ingeniero informático, licenciado por la Universidad Tecnológica de Chile Inacap, con más de 10 años de experiencia laboral distribuidos en los rubros de soporte de sistemas para la industria agrícola, desarrollo y medios de pagos financieros. Su trayectoria está marcada por un profundo conocimiento en tecnologías de información y metodologías ágiles. Se destaca por su versatilidad, iniciativa y capacidad de aprendizaje continuo. Su pasión se centra en la innovación y la optimización de procesos ###
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
