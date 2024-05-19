@@ -26,32 +26,39 @@
 
 Graduado de la Universidad Tecnológica de Chile INACAP,con habilidades destacadas en tecnologías como SQL, JavaScript, React, .NET, Python y más. Soy un firme creyente en la colaboración y la versatilidad, siempre buscando oportunidades para aprender y crecer.
 
-## 📋 Experiencia
 
-### Novaverso Full Stack Web Development
-- *Desarrollador Freelance Front End*
-- *dic 2023 - Presente*
-- Desarrollo de soluciones web innovadoras para microempresas, utilizando tecnologías como JavaScript, React, HTML y SQL.
+# 📋 Experiencia
 
-### Ionix Mobile Payments
-- *Monitoreo Soporte TI Plataforma - Ionix*
-- *ago 2022 - nov 2023*
-- Monitoreo activo de servicios de clientes y soporte técnico utilizando Jira.
+## Novaverso Full Stack Web Development
 
-### Novasoft Servicios Informáticos
-- *Desarrollador Freelance .Net*
-- *ene 2022 - oct 2023*
-- Desarrollo independiente de software de punto de venta y gestión de inventario para Mipymes.
+- 🧑‍💻 **Desarrollador Freelance Front End**  
+  📅 dic 2023 - Presente  
+  🌐 Desarrollo de soluciones web innovadoras para microempresas, utilizando tecnologías como JavaScript, React, HTML y SQL.
 
-### Adalid Chile
-- *Bootcamp de Desarrollador Full Stack JavaScript*
-- *mar 2023 - ago 2023*
-- Adquisición de habilidades en desarrollo Full Stack con JavaScript.
+## Ionix Mobile Payments
 
-### DevLEF SPA
-- *Práctica Profesional Desarrollador Front-end*
-- *ene 2022 - mar 2022*
-- Colaboración en el desarrollo de plataforma de Salud Mental utilizando JavaScript y PHP.
+- 🖥️ **Monitoreo Soporte TI Plataforma - Ionix**  
+  📅 ago 2022 - nov 2023  
+  📊 Monitoreo activo de servicios de clientes y soporte técnico utilizando Jira.
+
+## Novasoft Servicios Informáticos
+
+- 🧑‍💻 **Desarrollador Freelance .Net**  
+  📅 ene 2022 - oct 2023  
+  🛒 Desarrollo independiente de software de punto de venta y gestión de inventario para Mipymes.
+
+## Adalid Chile
+
+- 🎓 **Bootcamp de Desarrollador Full Stack JavaScript**  
+  📅 mar 2023 - ago 2023  
+  💻 Adquisición de habilidades en desarrollo Full Stack con JavaScript.
+
+## DevLEF SPA
+
+- 🧑‍💻 **Práctica Profesional Desarrollador Front-end**  
+  📅 ene 2022 - mar 2022  
+  🏥 Colaboración en el desarrollo de plataforma de Salud Mental utilizando JavaScript y PHP.
+
 
 ## 🎓 Educación
 
@@ -62,14 +69,16 @@ Graduado de la Universidad Tecnológica de Chile INACAP,con habilidades destacad
 - **Técnico en Mantención y Reparación de Computadores** - Intech Instituto Tecnológico Chillán, 2004 - 2006
 
 
+
+
 ## 🏆 Mis Insignias
 
-He obtenido varias insignias digitales por mis logros y competencias a través de Credly. A continuación, algunas de ellas:
+![CertiProf-Badge-LLL](https://github.com/Novaversocl/Novaversocl/assets/95386670/0cc87ef2-6cfa-4471-baa9-d101c80148d8)
 
-- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/5b63397a-5273-447e-93a3-ce27ebf674f6)
-- [Azure Developer Associate](https://www.credly.com/badges/azure-developer-associate)
-- [Global AI Bootcamp Participant](https://www.credly.com/badges/ai-bootcamp-participant)
-- 
+![image](https://github.com/Novaversocl/Novaversocl/assets/95386670/a08501e4-4d42-4e05-b981-e2dd5d07b51d)
+
+https://images.credly.com/size/110x110/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png
+
 
 Puedes ver todas mis insignias en mi perfil de [Credly](https://www.credly.com/users/juan-luis-estrada-nova/badges).
 
