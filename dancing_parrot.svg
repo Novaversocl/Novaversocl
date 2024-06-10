@@ -1,59 +1,20 @@
-<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg" style="width: 100%; height: 100%; display: block; background-color: white; perspective: 1000px;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
   <style>
-    .parrot {
-      transform-origin: center;
-      animation: dance 3s infinite;
-    }
-
-    @keyframes dance {
-      0% { transform: translateZ(0) rotateY(0deg); }
-      25% { transform: translateZ(100px) rotateY(45deg); }
-      50% { transform: translateZ(0) rotateY(90deg); }
-      75% { transform: translateZ(100px) rotateY(135deg); }
-      100% { transform: translateZ(0) rotateY(180deg); }
-    }
-
-    .wing {
-      transform-origin: top;
-      animation: flap 0.5s infinite;
-    }
-
-    @keyframes flap {
-      0% { transform: rotate(0); }
-      50% { transform: rotate(20deg); }
-      100% { transform: rotate(0); }
-    }
-
     .text {
-      font-size: 48px;
+      fill: #4CAF50;
       font-family: Arial, sans-serif;
-      fill: blue;
-      text-anchor: middle;
+      font-size: 30px;
+      font-weight: bold;
     }
   </style>
-  <text x="50%" y="10%" class="text">Novaverso</text>
-  <g class="parrot" transform="translate(400, 300)">
-    <!-- Body -->
-    <ellipse cx="0" cy="20" rx="40" ry="60" fill="green"/>
-    
-    <!-- Head -->
-    <circle cx="0" cy="-40" r="30" fill="yellow"/>
-    
-    <!-- Eyes -->
-    <circle cx="-10" cy="-45" r="5" fill="black"/>
-    <circle cx="10" cy="-45" r="5" fill="black"/>
-    
-    <!-- Beak -->
-    <polygon points="0,-30 -10,-20 10,-20" fill="orange"/>
-    
-    <!-- Wings -->
-    <g class="wing">
-      <polygon points="-40,20 -60,0 -20,0" fill="green"/>
-      <polygon points="40,20 60,0 20,0" fill="green"/>
-    </g>
-    
-    <!-- Legs -->
-    <line x1="-15" y1="80" x2="-15" y2="100" stroke="brown" stroke-width="5"/>
-    <line x1="15" y1="80" x2="15" y2="100" stroke="brown" stroke-width="5"/>
-  </g>
+  <text x="20" y="50" class="text">N</text>
+  <text x="60" y="50" class="text">o</text>
+  <text x="100" y="50" class="text">v</text>
+  <text x="140" y="50" class="text">a</text>
+  <text x="180" y="50" class="text">v</text>
+  <text x="220" y="50" class="text">e</text>
+  <text x="260" y="50" class="text">r</text>
+  <text x="300" y="50" class="text">s</text>
+  <text x="340" y="50" class="text">o</text>
 </svg>
+
