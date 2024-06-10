@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=juanluisestrada&color=blue)
 [![Linkedin](https://img.shields.io/badge/-juanluisestrada-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-luis-estrada-nova/)](https://www.linkedin.com/in/juanluisestrada/)
 
-![Snake animation](https://github.com/Novaversocl/Novaversocl/raw/main/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Novaversocl/Novaversocl/blob/main/Novaverso_grid-snake.svg)
 
 
 
