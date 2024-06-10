@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-juanluisestrada-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-luis-estrada-nova/)](https://www.linkedin.com/in/juanluisestrada/)
 
 
-https://github.com/Novaversocl/Novaversocl/blob/main/github-contribution-grid-snake.svg
+[https://github.com/Novaversocl/Novaversocl/blob/main/github-contribution-grid-snake.svg](https://github.com/Novaversocl/Novaversocl/blob/main/github-contribution-grid-snake.svg)
 
 ¡Bienvenido a mi perfil de GitHub! Soy un ingeniero informático, apasionado por la innovación y la optimización de procesos. Con más de 10 años de experiencia laboral, he incursionado en diversos sectores, desde la industria agrícola,Desarrollo, hasta los medios de pagos financieros. Mi trayectoria está marcada por un profundo conocimiento en tecnologías de información y metodologías ágiles.
 
