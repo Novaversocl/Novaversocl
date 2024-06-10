@@ -1,4 +1,4 @@
-<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg" style="width: 100%; height: 100%; display: block; background-color: white;">
   <style>
     .parrot {
       transform-origin: center;
@@ -7,9 +7,9 @@
 
     @keyframes dance {
       0% { transform: translateY(0) rotate(0); }
-      25% { transform: translateY(-10px) rotate(-10deg); }
+      25% { transform: translateY(-20px) rotate(-10deg); }
       50% { transform: translateY(0) rotate(0); }
-      75% { transform: translateY(-10px) rotate(10deg); }
+      75% { transform: translateY(-20px) rotate(10deg); }
       100% { transform: translateY(0) rotate(0); }
     }
 
@@ -23,29 +23,37 @@
       50% { transform: rotate(20deg); }
       100% { transform: rotate(0); }
     }
+
+    .text {
+      font-size: 48px;
+      font-family: Arial, sans-serif;
+      fill: blue;
+      text-anchor: middle;
+    }
   </style>
-  <g class="parrot">
+  <text x="50%" y="10%" class="text">Novaverso</text>
+  <g class="parrot" transform="translate(400, 300)">
     <!-- Body -->
-    <ellipse cx="100" cy="120" rx="40" ry="60" fill="green"/>
+    <ellipse cx="0" cy="20" rx="40" ry="60" fill="green"/>
     
     <!-- Head -->
-    <circle cx="100" cy="60" r="30" fill="yellow"/>
+    <circle cx="0" cy="-40" r="30" fill="yellow"/>
     
     <!-- Eyes -->
-    <circle cx="90" cy="55" r="5" fill="black"/>
-    <circle cx="110" cy="55" r="5" fill="black"/>
+    <circle cx="-10" cy="-45" r="5" fill="black"/>
+    <circle cx="10" cy="-45" r="5" fill="black"/>
     
     <!-- Beak -->
-    <polygon points="100,70 90,80 110,80" fill="orange"/>
+    <polygon points="0,-30 -10,-20 10,-20" fill="orange"/>
     
     <!-- Wings -->
     <g class="wing">
-      <polygon points="60,120 40,100 80,100" fill="green"/>
-      <polygon points="140,120 160,100 120,100" fill="green"/>
+      <polygon points="-40,20 -60,0 -20,0" fill="green"/>
+      <polygon points="40,20 60,0 20,0" fill="green"/>
     </g>
     
     <!-- Legs -->
-    <line x1="85" y1="180" x2="85" y2="200" stroke="brown" stroke-width="5"/>
-    <line x1="115" y1="180" x2="115" y2="200" stroke="brown" stroke-width="5"/>
+    <line x1="-15" y1="80" x2="-15" y2="100" stroke="brown" stroke-width="5"/>
+    <line x1="15" y1="80" x2="15" y2="100" stroke="brown" stroke-width="5"/>
   </g>
 </svg>
