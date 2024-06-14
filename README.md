@@ -1,4 +1,3 @@
-# ¡Hola! 👋 Soy Juan Luis Estrada Nova
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EFF0C&random=false&width=435&lines=%C2%A1Hola!+%F0%9F%91%8B+Soy+Juan+Luis+Estrada+)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=juanluisestrada&color=blue)
