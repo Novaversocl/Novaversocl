@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EFF0C&random=false&width=435&lines=%C2%A1Hola!+%F0%9F%91%8B+Soy+Juan+Luis+Estrada+)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13F700&random=false&width=435&lines=Hello+%F0%9F%91%8B%2C+I+am+Juan+Luis.)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=juanluisestrada&color=blue)
 [![Linkedin](https://img.shields.io/badge/-juanluisestrada-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-luis-estrada-nova/)](https://www.linkedin.com/in/juanluisestrada/)
