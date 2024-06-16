@@ -10,6 +10,7 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy un ingeniero informático, apasionado por la innovación y la optimización de procesos. Con más de 10 años de experiencia laboral, he incursionado en diversos sectores, desde la industria agrícola,Desarrollo, hasta los medios de pagos financieros. Mi trayectoria está marcada por un profundo conocimiento en tecnologías de información y metodologías ágiles.
 
+Welcome to my GitHub profile! I am a computer engineer passionate about innovation and process optimization. With over 10 years of work experience, I have ventured into various sectors, from the agricultural industry and development to financial payment media. My career is marked by a deep knowledge of information technologies and agile methodologies
 
 ## 🛠️ Tecnologías y Habilidades
 
@@ -28,7 +29,7 @@
 ## 🔍 Extracto
 
 Soy un firme creyente en la colaboración y la versatilidad, siempre buscando oportunidades para aprender y crecer.
-
+I am a firm believer in collaboration and versatility, always seeking opportunities to learn and grow.
 
 ## 🏆 Mis Insignias
 ![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/6f06bead-8868-4b37-acc5-70dfad737b57)
@@ -48,4 +49,5 @@ Soy un firme creyente en la colaboración y la versatilidad, siempre buscando op
 - **Email:** juanestrada.n@gmail.com
 
 ¡Gracias por visitar mi perfil de GitHub! 🚀
+Thank you for visiting my GitHub profile! 🚀
 
