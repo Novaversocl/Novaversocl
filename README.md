@@ -7,12 +7,9 @@
 ![Snake animation](https://github.com/Novaversocl/Novaversocl/blob/main/Novaverso_grid-snake.svg)
 
 
-
-¡Bienvenido a mi perfil de GitHub! Soy un ingeniero informático, apasionado por la innovación y la optimización de procesos. Con más de 10 años de experiencia laboral, he incursionado en diversos sectores, desde la industria agrícola,Desarrollo, hasta los medios de pagos financieros. Mi trayectoria está marcada por un profundo conocimiento en tecnologías de información y metodologías ágiles.
-
 Welcome to my GitHub profile! I am a computer engineer passionate about innovation and process optimization. With over 10 years of work experience, I have ventured into various sectors, from the agricultural industry and development to financial payment media. My career is marked by a deep knowledge of information technologies and agile methodologies
 
-## 🛠️ Tecnologías y Habilidades
+## 🛠️ Technologies and Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat-square)
@@ -26,12 +23,11 @@ Welcome to my GitHub profile! I am a computer engineer passionate about innovati
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?logo=scrumalliance&logoColor=white&style=flat-square)
 
 
-## 🔍 Extracto
+## 🔍 Summary
 
-Soy un firme creyente en la colaboración y la versatilidad, siempre buscando oportunidades para aprender y crecer.
 I am a firm believer in collaboration and versatility, always seeking opportunities to learn and grow.
 
-## 🏆 Mis Insignias
+## 🏆 My Badges
 ![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/6f06bead-8868-4b37-acc5-70dfad737b57)
 ![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/385924e5-4f6f-4580-af58-daf18d6c2262)
 ![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/ee86949f-be74-4399-80cb-2ff476cd87b1)
@@ -44,10 +40,9 @@ I am a firm believer in collaboration and versatility, always seeking opportunit
 ![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/e851d738-d1a0-49b9-bcd3-220f3184578e)
 
 
-## 📬 Contacto
+## 📬 Contact
 
 - **Email:** juanestrada.n@gmail.com
 
-¡Gracias por visitar mi perfil de GitHub! 🚀
 Thank you for visiting my GitHub profile! 🚀
 
