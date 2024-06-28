@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I am a computer engineer passionate about innovati
 ## 🔍 Summary
 
 I am a firm believer in collaboration and versatility, always seeking opportunities to learn and grow.
-
+https://www.credly.com/users/juan-luis-estrada-nova/badges
 ## 🏆 My Badges
 ![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/6f06bead-8868-4b37-acc5-70dfad737b57)
 ![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/385924e5-4f6f-4580-af58-daf18d6c2262)
@@ -37,6 +37,9 @@ I am a firm believer in collaboration and versatility, always seeking opportunit
 ![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/4bd36f8a-b4d0-4c63-9e85-05c5ee628c3c)
 ![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/c90bc016-be87-4252-8bdf-2f2fe60a8e8a)
 ![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/e851d738-d1a0-49b9-bcd3-220f3184578e)
+![image](https://github.com/Novaversocl/Novaversocl/assets/95386670/caccb902-3f0f-40e7-a3ce-c0f0ee77e09b)
+![Explore_Emerging_Tech](https://github.com/Novaversocl/Novaversocl/assets/95386670/21281438-6c70-4c75-9713-b87ad451a91d)
+
 
 
 ## 📬 Contact
