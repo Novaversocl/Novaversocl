@@ -29,6 +29,7 @@ I am a firm believer in collaboration and versatility, always seeking opportunit
 
 https://www.credly.com/users/juan-luis-estrada-nova/badges
 ## 🏆 My Badges
+https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966
 ![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/6f06bead-8868-4b37-acc5-70dfad737b57)
 ![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/385924e5-4f6f-4580-af58-daf18d6c2262)
 ![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/ee86949f-be74-4399-80cb-2ff476cd87b1)
