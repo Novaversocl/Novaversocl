@@ -46,7 +46,8 @@ https://www.credly.com/users/juan-luis-estrada-nova/badges
 ![image](https://github.com/Novaversocl/Novaversocl/assets/95386670/caccb902-3f0f-40e7-a3ce-c0f0ee77e09b)
 ![Explore_Emerging_Tech](https://github.com/Novaversocl/Novaversocl/assets/95386670/21281438-6c70-4c75-9713-b87ad451a91d)
 <img src="https://github.com/user-attachments/assets/eee9898f-3b5c-423a-b198-fe2e0ad38a31" width="110px" height="108px">
-![image](https://github.com/user-attachments/assets/22223b41-8317-4564-9e4f-af8fa769ddc6)
+<img src="https://github.com/user-attachments/assets/22223b41-8317-4564-9e4f-af8fa769ddc6" width="110px" height="108px">
+
 
 
 
