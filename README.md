@@ -20,6 +20,7 @@ Welcome to my GitHub profile! I am a computer engineer passionate about innovati
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=power-bi&logoColor=black&style=flat-square)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?logo=scrumalliance&logoColor=white&style=flat-square)
+<img src="https://github.com/user-attachments/assets/eee9898f-3b5c-423a-b198-fe2e0ad38a31" width="110px" height="108px">
 
 
 
