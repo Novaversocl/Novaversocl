@@ -45,6 +45,20 @@ https://www.credly.com/users/juan-luis-estrada-nova/badges
 ![image](https://github.com/Novaversocl/Novaversocl/assets/95386670/caccb902-3f0f-40e7-a3ce-c0f0ee77e09b)
 ![Explore_Emerging_Tech](https://github.com/Novaversocl/Novaversocl/assets/95386670/21281438-6c70-4c75-9713-b87ad451a91d)
 
+[image](https://github.com/user-attachments/assets/eee9898f-3b5c-423a-b198-fe2e0ad38a31)
+![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/6f06bead-8868-4b37-acc5-70dfad737b57)
+![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/385924e5-4f6f-4580-af58-daf18d6c2262)
+![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/ee86949f-be74-4399-80cb-2ff476cd87b1)
+![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/90ff6204-59a0-4c46-affd-0ec475fbb860)
+![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/8c33c862-293a-4316-a96f-c68cd93624c4)
+![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/8e77d51f-5aa7-4537-90d6-c5faa6d3aa2e)
+![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/47c7a426-849b-43a6-b8f9-881ff994c5a7)
+![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/4bd36f8a-b4d0-4c63-9e85-05c5ee628c3c)
+![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/c90bc016-be87-4252-8bdf-2f2fe60a8e8a)
+![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/e851d738-d1a0-49b9-bcd3-220f3184578e)
+![image](https://github.com/Novaversocl/Novaversocl/assets/95386670/caccb902-3f0f-40e7-a3ce-c0f0ee77e09b)
+![Explore_Emerging_Tech](https://github.com/Novaversocl/Novaversocl/assets/95386670/21281438-6c70-4c75-9713-b87ad451a91d)
+
 
 
 ## 📬 Contact
