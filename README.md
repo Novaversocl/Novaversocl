@@ -30,9 +30,8 @@ I am a firm believer in collaboration and versatility, always seeking opportunit
 
 https://www.credly.com/users/juan-luis-estrada-nova/badges
 ## 🏆 My Badges
-![image](https://github.com/user-attachments/assets/eee9898f-3b5c-423a-b198-fe2e0ad38a31)
-<img src="https://github.com/Novaversocl/Novaversocl/assets/95386670/6f06bead-8868-4b37-acc5-70dfad737b57" width="500px">
 
+<img src="https://github.com/user-attachments/assets/eee9898f-3b5c-423a-b198-fe2e0ad38a31" width="110px" height="108px">
 ![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/6f06bead-8868-4b37-acc5-70dfad737b57)
 ![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/385924e5-4f6f-4580-af58-daf18d6c2262)
 ![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/ee86949f-be74-4399-80cb-2ff476cd87b1)
