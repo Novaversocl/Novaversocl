@@ -48,6 +48,9 @@ https://www.credly.com/users/juan-luis-estrada-nova/badges
 <img src="https://github.com/user-attachments/assets/eee9898f-3b5c-423a-b198-fe2e0ad38a31" width="110px" height="108px">
 <img src="https://github.com/user-attachments/assets/22223b41-8317-4564-9e4f-af8fa769ddc6" width="110px" height="108px">
 <img src="https://github.com/user-attachments/assets/28845986-1efe-4abd-80ea-eb219d8b8177" width="110px" height="108px">
+<img src="https://github.com/user-attachments/assets/4609406c-d761-41ce-925f-30d135747e98" width="110px" height="108px">
+
+
 
 
 
