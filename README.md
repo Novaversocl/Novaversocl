@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I am a computer engineer passionate about innovati
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=power-bi&logoColor=black&style=flat-square)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?logo=scrumalliance&logoColor=white&style=flat-square)
-<img src="https://github.com/user-attachments/assets/eee9898f-3b5c-423a-b198-fe2e0ad38a31" width="110px" height="108px">
+
 
 
 
@@ -45,6 +45,7 @@ https://www.credly.com/users/juan-luis-estrada-nova/badges
 ![imagen](https://github.com/Novaversocl/Novaversocl/assets/95386670/e851d738-d1a0-49b9-bcd3-220f3184578e)
 ![image](https://github.com/Novaversocl/Novaversocl/assets/95386670/caccb902-3f0f-40e7-a3ce-c0f0ee77e09b)
 ![Explore_Emerging_Tech](https://github.com/Novaversocl/Novaversocl/assets/95386670/21281438-6c70-4c75-9713-b87ad451a91d)
+<img src="https://github.com/user-attachments/assets/eee9898f-3b5c-423a-b198-fe2e0ad38a31" width="110px" height="108px">
 
 
 
